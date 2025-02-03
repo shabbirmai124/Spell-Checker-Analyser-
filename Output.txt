@@ -1,0 +1,4136 @@
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+Incorrect Word: 'cuntry'
+Suggested Correct Words: 'chantry' 'county' 'country'
+
+
+Incorrect Word: 'myanmar'
+Suggested Correct Words: 'macnair' 'manaker' 'mapmaker'
+
+
+Incorrect Word: 'contries'
+Suggested Correct Words: 'construes' 'centuries' 'continues'
+
+
+Incorrect Word: 'milion'
+Suggested Correct Words: 'miltown' 'mistion' 'million'
+
+
+Incorrect Word: 'peaple'
+Suggested Correct Words: 'papable' 'papulae' 'pealike'
+
+
+Incorrect Word: 'capitel'
+Suggested Correct Words: 'chaptrel' 'capitol' 'capital'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'politcal'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'ecinomic'
+Suggested Correct Words: 'ethonomic' 'endosmic' 'economic'
+
+
+Incorrect Word: 'culturral'
+Suggested Correct Words: 'caterbrawl' 'cursorial' 'calentural'
+
+
+Incorrect Word: 'offical'
+Suggested Correct Words: 'orbical' 'orphical' 'official'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'popuation'
+Suggested Correct Words: 'papulation' 'poculation' 'population'
+
+
+Incorrect Word: 'speeks'
+Suggested Correct Words: 'steeks' 'species' 'speers'
+
+
+Incorrect Word: 'thair'
+Suggested Correct Words: 'thayer' 'tahar' 'tapir'
+
+
+Incorrect Word: 'languge'
+Suggested Correct Words: 'langrage' 'language' 'langauge'
+
+
+Incorrect Word: 'poltical'
+Suggested Correct Words: 'polemical' 'pollical' 'political'
+
+
+Incorrect Word: 'econimic'
+Suggested Correct Words: 'eponymic' 'elohimic' 'economic'
+
+
+Incorrect Word: 'discrmination'
+Suggested Correct Words: 'disinclination' 'disorientation'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'strugled'
+Suggested Correct Words: 'straggled' 'strangled'
+
+
+Incorrect Word: 'faught'
+Suggested Correct Words: 'fought'
+
+
+Incorrect Word: 'independance'
+Suggested Correct Words: 'irrepentance' 'independable'
+
+
+Incorrect Word: 'nin'
+Suggested Correct Words: 'noun' 'nein' 'nain'
+
+
+Incorrect Word: 'becam'
+Suggested Correct Words: 'behaim' 'becram'
+
+
+Incorrect Word: 'soverign'
+Suggested Correct Words: 'silverfin' 'souverain'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'anchent'
+Suggested Correct Words: 'abducent' 'anchoret' 'ancient'
+
+
+Incorrect Word: 'prospirty'
+Suggested Correct Words: 'propulsity' 'protensity' 'prosperity'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'mughal'
+Suggested Correct Words: 'manual' 'munhall' 'mulhall'
+
+
+Incorrect Word: 'impprtant'
+Suggested Correct Words: 'impregnant' 'importment' 'important'
+
+
+Incorrect Word: 'exportd'
+Suggested Correct Words: 'experted' 'exhorted'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agrculture'
+Suggested Correct Words: 'anaculture' 'arviculture'
+
+
+Incorrect Word: 'indusry'
+Suggested Correct Words: 'inquiry' 'infusory' 'industry'
+
+
+Incorrect Word: 'bigest'
+Suggested Correct Words: 'bigfeet' 'bliest'
+
+
+Incorrect Word: 'contributers'
+Suggested Correct Words: 'contributions'
+
+
+Incorrect Word: 'econmy'
+Suggested Correct Words: 'ectomy' 'euonymy' 'economy'
+
+
+Incorrect Word: 'agricultral'
+Suggested Correct Words: 'apicultural' 'aquicultural' 'agricultural'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'larg'
+Suggested Correct Words: 'laing' 'liang' 'laoag'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'meghna'
+Suggested Correct Words: 'mashona' 'menasha' 'mentha'
+
+
+Incorrect Word: 'jamuna'
+Suggested Correct Words: 'jaunita' 'jacunda' 'jamnia'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'experences'
+Suggested Correct Words: 'experiments' 'expediences'
+
+
+Incorrect Word: 'someetimes'
+Suggested Correct Words: 'sobrieties' 'somewhiles' 'solemnities'
+
+
+Incorrect Word: 'cyclons'
+Suggested Correct Words: 'claxons'
+
+
+Incorrect Word: 'contrys'
+Suggested Correct Words: 'contours' 'contours' 'contras'
+
+
+Incorrect Word: 'natral'
+Suggested Correct Words: 'narial' 'neutral' 'natural'
+
+
+Incorrect Word: 'disastars'
+Suggested Correct Words: 'distastes' 'diastalsis' 'disastrous'
+
+
+Incorrect Word: 'peple'
+Suggested Correct Words: 'pelite' 'popele' 'people'
+
+
+Incorrect Word: 'continu'
+Suggested Correct Words: 'cotonou'
+
+
+Incorrect Word: 'livelihods'
+Suggested Correct Words: 'lifebloods' 'likelihoods'
+
+
+Incorrect Word: 'cultur'
+Suggested Correct Words: 'couleur' 'clotbur' 'clotbur'
+
+
+Incorrect Word: 'religon'
+Suggested Correct Words: 'redlion' 'relation' 'religion'
+
+
+Incorrect Word: 'trditions'
+Suggested Correct Words: 'traditious' 'traditions' 'traditions'
+
+
+Incorrect Word: 'pohela'
+Suggested Correct Words: 'pohjola' 'porella' 'popelka'
+
+
+Incorrect Word: 'boishakh'
+Suggested Correct Words: 'bogglish' 'blowfish' 'boweryish'
+
+
+Incorrect Word: 'celebrted'
+Suggested Correct Words: 'cleartoned' 'cerebrated' 'celebrated'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'includng'
+Suggested Correct Words: 'inchlong' 'incurving' 'including'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'spicies'
+Suggested Correct Words: 'scampies' 'scribes' 'spicers'
+
+
+Incorrect Word: 'populer'
+Suggested Correct Words: 'popeler' 'peopler' 'poulter'
+
+
+Incorrect Word: 'nationl'
+Suggested Correct Words: 'nainsell' 'notional'
+
+
+Incorrect Word: 'bpl'
+Suggested Correct Words: 'byrl' 'bowl' 'bcpl'
+
+
+Incorrect Word: 'domstic'
+Suggested Correct Words: 'domitic' 'doxastic'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'dominnt'
+Suggested Correct Words: 'desinent' 'dormient' 'dominant'
+
+
+Incorrect Word: 'educaion'
+Suggested Correct Words: 'excambion' 'eduction'
+
+
+Incorrect Word: 'universties'
+Suggested Correct Words: 'universitys' 'universitas' 'universities'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'literracy'
+Suggested Correct Words: 'literarily' 'literberry' 'literally'
+
+
+Incorrect Word: 'accessble'
+Suggested Correct Words: 'accessive' 'accostable' 'accessable'
+
+
+Incorrect Word: 'infrastructur'
+Suggested Correct Words: 'infraauricular' 'infrastipular' 'infratrochlear'
+
+
+Incorrect Word: 'signifcant'
+Suggested Correct Words: 'signifiant' 'signficant'
+
+
+Incorrect Word: 'technlogy'
+Suggested Correct Words: 'technonomy' 'tecnology'
+
+
+Incorrect Word: 'buildngs'
+Suggested Correct Words: 'biddings' 'bussings' 'buildings'
+
+
+Incorrect Word: 'transpirtation'
+Suggested Correct Words: 'transmigration' 'transfretation'
+
+
+Incorrect Word: 'padma'
+Suggested Correct Words: 'parma' 'padova' 'pajama'
+
+
+Incorrect Word: 'achevement'
+Suggested Correct Words: 'abouchement' 'acharnement'
+
+
+Incorrect Word: 'enrgy'
+Suggested Correct Words: 'enurny' 'entry'
+
+
+Incorrect Word: 'dependnce'
+Suggested Correct Words: 'dependable'
+
+
+Incorrect Word: 'fosil'
+Suggested Correct Words: 'foyil' 'forril' 'fossil'
+
+
+Incorrect Word: 'electrcity'
+Suggested Correct Words: 'electivity' 'electrotypy'
+
+
+Incorrect Word: 'contry'
+Suggested Correct Words: 'chantry' 'conjury' 'country'
+
+
+Incorrect Word: 'trnsformation'
+Suggested Correct Words: 'transportation' 'transforation' 'transformation'
+
+
+Incorrect Word: 'governmnt'
+Suggested Correct Words: 'germinant' 'germanist'
+
+
+Incorrect Word: 'availble'
+Suggested Correct Words: 'avowable' 'airville'
+
+
+Incorrect Word: 'sundarbans'
+Suggested Correct Words: 'snapdragons' 'sugarcanes' 'sundayness'
+
+
+Incorrect Word: 'largst'
+Suggested Correct Words: 'langset' 'langsat' 'largest'
+
+
+Incorrect Word: 'coxs'
+Suggested Correct Words: 'caxes' 'cours' 'coxes'
+
+
+Incorrect Word: 'longst'
+Suggested Correct Words: 'logist' 'langset' 'longest'
+
+
+Incorrect Word: 'attrcts'
+Suggested Correct Words: 'attorns' 'attritus'
+
+
+Incorrect Word: 'srimangal'
+Suggested Correct Words: 'springtail' 'springtail' 'syringeal'
+
+
+Incorrect Word: 'chalenges'
+Suggested Correct Words: 'chasteness' 'chasteners' 'chantages'
+
+
+Incorrect Word: 'hospitlity'
+Suggested Correct Words: 'hospitably' 'hospitalary' 'hospitality'
+
+
+Incorrect Word: 'continous'
+Suggested Correct Words: 'contagious' 'continuers'
+
+
+Incorrect Word: 'futre'
+Suggested Correct Words: 'furile' 'foutre' 'future'
+
+
+
+
+
+Results for 10000 words:
+	Total Words Processed: 6920
+	Correct Words: 5890
+	Incorrect Words: 1030
+
+Runtime Statistics:
+	Total processing time: 43.6080 seconds
+	LCS computation time: 221.0099 milliseconds
+	String matching time: 12.3982 milliseconds
+	Knapsack algorithm time: 14.0518 milliseconds
+	
